@@ -7,7 +7,7 @@ Para Realizar o processo de Avaliação deste Projeto, siga os passos listados A
 Url para Clonar o Projeto https://github.com/cassiodnsantos/pastel-ideias.git
 
 ## Configurações do Projeto ##
-Após o término do clone, acesse a pasta do projeto e renomeie o arquivo **.env_rename** para **.env**.
+Após o término do clone, se o projeto não conter o arquivo **.env** ,acesse a pasta do projeto e renomeie o arquivo **.env_rename** para **.env**.
 Este arquivo **.env** contém algumas configurações pré-definidas como conexão ao banco de dados e configurações para o envio do e-mail(**Mailtrap**).
 
 Finalizando as configurações do arquivo **.env**, acesse a pasta via terminal e execute os comandos abaixo:
